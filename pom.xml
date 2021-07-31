@@ -11,10 +11,11 @@
 
   <name>leetcode</name>
   <url>http://www.likeu.cool</url>
-  
+
   <modules>
     <module>algorithm</module>
-	  <module>jdk-api</module>
+    <module>jdk-api</module>
+    <module>java-runtime-8</module>
   </modules>
 
   <properties>
